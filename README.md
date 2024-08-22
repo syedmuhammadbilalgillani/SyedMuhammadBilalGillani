@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-link-here.png" alt="Logo" width="1100">
+  <img src="https://github.com/SyedMuhammadBilalGillani/SyedMuhammadBilalGillani/blob/main/Blue%20Orange%20Modern%20Linkedin%20Article%20Cover%20Image.png" alt="Logo" width="1100">
 </p>
 
 <h1 align="center">Hello! I'm Syed Muhammad Bilal Gillani</h1>
