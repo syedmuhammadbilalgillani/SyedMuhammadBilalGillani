@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hello! I'm Syed Muhammad Bilal Gillani</h1>
-<h3 align="center">Web Developer | Frontend & Backend Enthusiast | Laravel & MERN Stack Specialist</h3>
+<h3 align="center">Web Developer | Frontend & Backend Enthusiast | Next.JS & MERN Stack Specialist</h3>
 
 ---
 
