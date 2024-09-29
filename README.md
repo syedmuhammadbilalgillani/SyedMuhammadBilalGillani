@@ -12,9 +12,9 @@
 I'm a driven and adaptable web developer with a proven track record of delivering exceptional results in rapidly evolving environments. With a deep understanding of both frontend and backend development, I excel at creating innovative, user-centric web solutions that drive tangible business growth. My journey in web development is marked by a commitment to continuous learning and staying updated with the latest technologies.
 
 - 🔭 **Currently Training at**: [NAVTAC](https://navttc.gov.pk/), specializing in Advanced Web Development.
-- 🌱 **Learning**: Advanced MERN Stack Development, Laravel.
+- 🌱 **Learning**: Advanced MERN Stack Development, Next.
 - 👯 **Collaborating on**: Full-stack web development projects with a focus on e-commerce solutions.
-- 💬 **Ask me about**: HTML, CSS, JavaScript, React.js, Express.js, MongoDB, Laravel.
+- 💬 **Ask me about**: HTML, CSS, JavaScript, React.js, Express.js, MongoDB, Next.
 - ⚡ **Fun fact**: I love blending creativity with coding to solve real-world problems.
 
 ---
