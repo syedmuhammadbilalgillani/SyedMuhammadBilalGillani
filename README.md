@@ -3,47 +3,50 @@
 </p>
 
 <h1 align="center">Hello! I'm Syed Muhammad Bilal Gillani</h1>
-<h3 align="center">Web Developer | Frontend & Backend Enthusiast | Next.JS & MERN Stack Specialist</h3>
+<h3 align="center">Full-Stack Web Developer | MERN Stack Specialist | Next.js & TypeScript Enthusiast</h3>
 
 ---
 
 ### 🌟 About Me
 
-I'm a driven and adaptable web developer with a proven track record of delivering exceptional results in rapidly evolving environments. With a deep understanding of both frontend and backend development, I excel at creating innovative, user-centric web solutions that drive tangible business growth. My journey in web development is marked by a commitment to continuous learning and staying updated with the latest technologies.
+I'm a passionate and results-driven full-stack web developer with expertise in building scalable, user-centric web applications. My skill set spans across both frontend and backend development, with a strong focus on the MERN stack, TypeScript, and modern frameworks like Next.js. I thrive in dynamic environments and am committed to delivering high-quality solutions that drive business growth.
 
-- 🔭 **Currently Training at**: [NAVTAC](https://navttc.gov.pk/), specializing in Advanced Web Development.
-- 🌱 **Learning**: Advanced MERN Stack Development, Next.
-- 👯 **Collaborating on**: Full-stack web development projects with a focus on e-commerce solutions.
-- 💬 **Ask me about**: HTML, CSS, JavaScript, React.js, Express.js, MongoDB, Next.
-- ⚡ **Fun fact**: I love blending creativity with coding to solve real-world problems.
+- 🔭 **Currently Working On**: Advanced full-stack projects using Next.js, TypeScript, and Drizzle ORM.
+- 🌱 **Learning**: Deepening my knowledge in React Native with Expo for cross-platform mobile development.
+- 👯 **Collaborating On**: Full-stack web and mobile applications with a focus on performance and scalability.
+- 💬 **Ask me about**: MERN Stack, TypeScript, Next.js, Tailwind CSS, Drizzle ORM, React Native, and Bootstrap.
+- ⚡ **Fun fact**: I enjoy solving complex problems by blending creativity with technical expertise.
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Tech Stack
 
-<p align="center">
+<p align="center" >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="40" height="40"/>
-</p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
+</p>
 
 ---
 
 ### 💼 Experience
 
-- **Web Development Intern** @ UET Lahore (Jan 2024 - Present)
-  - Working on an e-commerce project to enhance learning and hands-on experience in web development.
+- **Full-Stack Web Developer** @ xNers (Nov 2024 - Present)
+  - Building scalable web applications using the MERN stack, Next.js, and TypeScript.
+  - Developing cross-platform mobile apps with React Native and Expo.
+- **Web Development Intern** @ UET Lahore (Oct 2023 - Oct -2024)
+  - Contributed to an e-commerce project, focusing on both frontend and backend development.
 - **Advanced Web Training** @ NAVTAC (May 2023 - Aug 2023)
-  - Specialized in basic frontend and Laravel backend development.
-- **Graphic Design Certification** @ Peak Solutions
-  - Acquired skills in creating compelling visual designs, focusing on user interface and user experience.
+  - Specialized in frontend development and backend frameworks like Laravel.
 
 ---
 
@@ -67,6 +70,7 @@ I'm a driven and adaptable web developer with a proven track record of deliverin
 
 - 💻 **[Little Fashion](https://little-fashion-kappa.vercel.app/)**: A full-stack e-commerce project using the MERN stack.
 - 📄 **[HexaShop](https://hexashop-web-mern.vercel.app/)**: A role-based e-commerce website with Gmail verification for enhanced security.
+- 📱 **[React Native Expo App]**: A cross-platform mobile app built with React Native and Expo.
 
 ---
 
@@ -87,4 +91,3 @@ I'm a driven and adaptable web developer with a proven track record of deliverin
 <p align="center"> 
   <img src="https://img.shields.io/github/followers/YourGitHubUsername?label=Follow%20me&style=social" alt="GitHub Followers" />
 </p>
-
