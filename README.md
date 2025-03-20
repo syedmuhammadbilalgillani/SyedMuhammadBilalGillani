@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hello! I'm Syed Muhammad Bilal Gillani</h1>
-<h3 align="center">Full-Stack Web Developer | MERN Stack Specialist | Next.js & TypeScript Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Expert in Next.js, NestJS, TypeScript, React Native & MERN Stack | Building Scalable Applications with PostgreSQL, Tailwind CSS & Bootstrap</h3>
 
 ---
 
@@ -21,7 +21,7 @@ I'm a passionate and results-driven full-stack web developer with expertise in b
 
 ### 🛠️ Tech Stack
 
-<div align="center" style="background-color: "white"; border-radius: 10px;">
+<div align="center" style="background-color: "gray"; border-radius: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
@@ -40,7 +40,7 @@ I'm a passionate and results-driven full-stack web developer with expertise in b
 
 ### 💼 Experience
 
-- **Full-Stack Web Developer** @ xNers (Nov 2024 - Present)
+- **Full-Stack Web Developer** @ xNerds (Nov 2024 - March 2025)
   - Building scalable web applications using the MERN stack, Next.js, and TypeScript.
   - Developing cross-platform mobile apps with React Native and Expo.
 - **Web Development Intern** @ UET Lahore (Oct 2023 - Oct -2024)
