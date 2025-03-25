@@ -11,7 +11,7 @@
 
 I'm a passionate Full Stack Developer with a knack for building scalable, user-focused web and mobile applications. My expertise spans frontend and backend development, leveraging modern tools like **Next.js**, **NestJS**, **TypeScript**, and the **MERN Stack**. I love tackling complex challenges and delivering high-quality, performance-driven solutions.
 
-- 🔭 **Currently Working On**: Full-stack projects with Next.js, TypeScript, and Drizzle ORM.
+- 🔭 **Currently Working On**: Full-stack projects with Next.js, TypeScript, and Nest.js.
 - 🌱 **Learning**: Advanced React Native with Expo for cross-platform mobile apps.
 - 👯 **Open to Collaborate**: On scalable web/mobile apps with a focus on performance.
 - 💬 **Ask Me About**: MERN Stack, Next.js, NestJS, TypeScript, React Native, or Tailwind CSS.
@@ -32,7 +32,7 @@ I'm a passionate Full Stack Developer with a knack for building scalable, user-f
   <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-w81k0lze.png" alt="NestJS" width="50" height="50" title="NestJS"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" title="MongoDB"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" title="PostgreSQL"/> 
-  <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" alt="Tailwind CSS" width="50" height="50" title="Tailwind CSS"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" alt="Tailwind CSS" width="50" height="50" title="Tailwind CSS"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" title="Bootstrap"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" title="Git"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" title="GitHub"/>
