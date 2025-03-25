@@ -32,7 +32,7 @@ I'm a passionate Full Stack Developer with a knack for building scalable, user-f
   <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-w81k0lze.png" alt="NestJS" width="50" height="50" title="NestJS"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" title="MongoDB"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" title="PostgreSQL"/> 
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-aygwc&psig=AOvVaw3ScHJE_6ABIHpT6PJsC-tf&ust=1743000399919000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjM9dC8pYwDFQAAAAAdAAAAABAD" alt="Tailwind CSS" width="50" height="50" title="Tailwind CSS"/> 
+  <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" alt="Tailwind CSS" width="50" height="50" title="Tailwind CSS"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" title="Bootstrap"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" title="Git"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" title="GitHub"/>
@@ -46,7 +46,7 @@ I'm a passionate Full Stack Developer with a knack for building scalable, user-f
   - Developing scalable web apps with MERN, Next.js, and TypeScript.  
   - Creating cross-platform mobile apps using React Native and Expo.
 
-- **Web Development Intern** @ UET Lahore *(Oct 2023 - Oct 2024)*  
+- **MERN Stack Developer** @ UET Lahore *(Oct 2023 - Oct 2024)*  
   - Built features for an e-commerce platform, focusing on both frontend and backend.
 
 - **Advanced Web Training** @ NAVTAC *(May 2023 - Aug 2023)*  
@@ -72,10 +72,10 @@ I'm a passionate Full Stack Developer with a knack for building scalable, user-f
 
 ### 🚀 My Projects
 
-- 💻 **[Little Fashion](https://little-fashion-kappa.vercel.app/)**  
+- 💻 **[Little Fashion](https://littlefashion-pi.vercel.app/)**  
   A full-stack e-commerce platform built with the MERN stack.  
 
-- 📄 **[HexaShop](https://hexashop-web-mern.vercel.app/)**  
+- 📄 **[HexaShop](https://hexashopclient.vercel.app/)**  
   A role-based e-commerce site with Gmail verification for enhanced security.  
 
 - 📱 **[React Native Expo App]**  
